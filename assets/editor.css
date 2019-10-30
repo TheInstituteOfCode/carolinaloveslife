@@ -6,7 +6,7 @@ h2.cursive {
     color: pink;
 }
 
-h2.small-caps {
+h3.small-caps {
     text-transform: uppercase;
     letter-spacing:2px;
     font-size:0.9rem;
