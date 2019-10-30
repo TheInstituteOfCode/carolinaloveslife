@@ -6,6 +6,12 @@ h2.cursive {
     color: pink;
 }
 
+h2.small-caps {
+    text-transform: uppercase;
+    letter-spacing:2px;
+    fnot-size:0.9rem;
+}
+
 
 /* Image Styles */
 
